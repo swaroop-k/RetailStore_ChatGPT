@@ -1,0 +1,60 @@
+Basic Questions:
+What is the distribution of customer ages?
+How many customers are there in each gender category?
+What is the average amount spent per transaction?
+What are the most common cities among customers?
+How many transactions fall into each product category?
+What is the distribution of product ratings?
+How many transactions used each payment method?
+What is the percentage of transactions that were returned?
+What is the distribution of delivery statuses?
+What is the average delivery time in days?
+What is the distribution of delivery fees?
+How many feedback scores are there in each category (Positive, Neutral, Negative)?
+What is the average review length?
+How many customers fall into each customer satisfaction category?
+What is the distribution of transaction dates?
+
+
+
+
+
+Intermediate Questions:
+What is the average amount spent by age group?
+What is the average product rating by product category?
+How does the amount spent vary by city?
+What is the relationship between payment method and amount spent?
+What is the return rate for each product category?
+What is the average delivery time for each delivery status?
+How does customer satisfaction vary by gender?
+What is the relationship between feedback score and review length?
+How does the amount spent vary by delivery status?
+What is the distribution of transaction amounts over time?
+What is the average amount spent per transaction for each feedback score?
+What is the correlation between age and amount spent?
+What is the distribution of product ratings for each feedback score?
+How does the delivery fee vary by product category?
+What is the average amount spent by customer satisfaction category?
+
+
+
+
+
+
+
+Advanced Questions:
+What are the key factors influencing customer satisfaction?
+How does the time of transaction affect the amount spent?
+What is the relationship between product category and return rate?
+What is the impact of delivery time on customer satisfaction?
+How do customer demographics (age, gender, city) affect spending habits?
+What is the relationship between transaction amount and review length?
+How do delivery fees impact customer satisfaction?
+What is the correlation between product rating and amount spent?
+How does the payment method influence the likelihood of returns?
+What are the patterns in feedback scores across different product categories?
+What are the main factors affecting delivery status?
+How do transaction amounts vary by time of day and day of the week?
+What is the relationship between customer age and product rating given?
+How do different feedback scores affect customer satisfaction?
+What are the trends in product category popularity over time?
